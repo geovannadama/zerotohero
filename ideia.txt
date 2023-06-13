@@ -1,0 +1,10 @@
+Zero to Hero
+O restaurante terá um cardápio em forma de QRcode, onde o cliente usa seu próprio celular para ler e fazer seu pedido.
+Após escolher o que irá pedir, o cliente finalizara o seu pedido colocando seu nome e número da sua mesa.
+O pagamento será realizado na saída, basta chegar ao caixa e falar o número de sua mesa
+
+Como usar o QRcode
+O QRcode vai estar em um suporte em cima da mesa, basta o cliente abrir a sua câmera e apontar para o QRcode para abrir o cardápio. Após o cliente entrar no cardápio irão ter várias categorias.
+EX.
+Pratos, bebidas, sobremesas etc.
+Após escolher seu pedido e a quantidade o cliente aperta um botão pra ir para o próximo passo, onde irá colocar seu nome e sua mesa para finalizar o pedido.
